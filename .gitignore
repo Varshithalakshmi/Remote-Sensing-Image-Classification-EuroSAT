@@ -1,0 +1,14 @@
+.sf/
+.venv/
+__pycache__/
+*.py[cod]
+.DS_Store
+.env
+data/raw/*
+data/processed/*
+models/*.h5
+models/*.keras
+models/*.pth
+models/*.pt
+results/*
+!.gitkeep
