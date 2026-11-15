@@ -12,3 +12,5 @@ models/*.pth
 models/*.pt
 results/*
 !.gitkeep
+
+.venv*/
